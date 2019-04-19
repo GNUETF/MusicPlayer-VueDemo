@@ -21,6 +21,7 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 # 项目描述
 * 其中dist文件夹中
+
     1.dist文件中是前些时候打包的文件 这次上传未打包未更新，里面也包含app文件（.apk文件）
     2. 运行 http-server
     3. app可直接安装
