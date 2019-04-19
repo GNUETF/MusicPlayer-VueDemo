@@ -25,6 +25,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
     1. dist文件中是前些时候打包的文件 这次上传未打包未更新，里面也包含app文件（.apk文件）
     2. 运行 http-server
     3. app可直接安装
+    4.数据用的是网络地址并没用去找音乐相关api（本地模拟）
   
 ###### 打包app工具
     1. 我用的是HBuilder
