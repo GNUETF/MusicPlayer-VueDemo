@@ -36,8 +36,9 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
     1. 数据用的是网络地址并没用去找音乐相关api（本地模拟）
     2. 切歌 播放歌曲时可能因为网速问题 要等加载完后才能播放 如有好的推荐 和意见还请指点
 ##### 项目截图
-![image](https://github.com/GNUETF/MusicPlayer-VueDemo/blob/master/src/assets/M1.png
-https://github.com/GNUETF/MusicPlayer-VueDemo/blob/master/src/assets/M2.png,
-https://github.com/GNUETF/MusicPlayer-VueDemo/blob/master/src/assets/M3.png,
-https://github.com/GNUETF/MusicPlayer-VueDemo/blob/master/src/assets/M4.png,
-https://github.com/GNUETF/MusicPlayer-VueDemo/blob/master/src/assets/M4S1.png)
+![image](https://github.com/GNUETF/MusicPlayer-VueDemo/blob/master/src/assets/M1.png)
+![image](https://github.com/GNUETF/MusicPlayer-VueDemo/blob/master/src/assets/M2.png)
+![image](https://github.com/GNUETF/MusicPlayer-VueDemo/blob/master/src/assets/M3.png)
+![image](https://github.com/GNUETF/MusicPlayer-VueDemo/blob/master/src/assets/M4.png)
+![image](https://github.com/GNUETF/MusicPlayer-VueDemo/blob/master/src/assets/M4S1.png)
+
